@@ -1,7 +1,7 @@
 import React from 'react';
 import Button from "../Button/Button.jsx";
 import "./Welcome.scss";
-
+import welcomeImg from "./src/assets/img/welcome.png";
 const Welcome = () => {
     return (
         <section className="welcome">
